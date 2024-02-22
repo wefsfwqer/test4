@@ -11,7 +11,7 @@
           "name": "to-sdtf",
           "output": {
             "type": "file",
-            "filePath": "output/tokens.json"
+            "filePath": "output/tokens1.json"
           }
         }
       ]
